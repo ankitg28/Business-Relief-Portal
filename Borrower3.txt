@@ -1,0 +1,8 @@
+Hello the Borrower Details are:
+Business name 	Barfa
+Business Description 	fsdg		
+Business Location 	dsf
+Number of Employees	123
+Business revenue 	11111.0
+Employee Average Salaries 	321.0
+Business Funds 	44444.0
