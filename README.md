@@ -1,11 +1,4 @@
 # AED_Business_Relief_Program
-<p>
-Date: 11 December,2022<br>
-Group Members:<br>
-Ankit Goyal<br>
-Ishita Janwale<br>
-Ritvik Paramkusham<br>
-</p>
 <br>
 <br>
 Problem Statement: 
