@@ -17,7 +17,7 @@ The main aim of Business Relief Portal is to :
 3. Maintain and strengthen the overall economy of our nation
 4. Help business firms to retain their employee in times of crises
 
-<br><b>=====================================| Proposed Solution |========================================</b><br> 
+<br><b>=====================================| Proposed Solution |===========================</b><br> 
 
 1. We created a platform that aids businesses in obtaining money from the government and lenders in order to  assist people with their startups or existing businesses.
 2. As a result, a lot of organizations receive funding, which boosts the nation's economy.
@@ -27,7 +27,7 @@ The main aim of Business Relief Portal is to :
 6. Different funders have the option to invest money in both the company of their choosing and a legitimate commercial organization.
 7. In order to prevent us from falling for con artists, our portal is effective enough to verify the lending institutions as well as corporate companies.
 
-<br><b>=====================================| Enterprises |=============================================</b><br>
+<br><b>=====================================| Enterprises |===========================</b><br>
 
 1. Fund Management Enterprise
 2. Business Enterprise
@@ -35,7 +35,7 @@ The main aim of Business Relief Portal is to :
 4. User and Verification Enterprise
 5. Customer Support Enterprise
 
-<br><b>=====================================| Organizations |============================================</b><br>
+<br><b>=====================================| Organizations |===========================</b><br>
 
 1. Treasury Organization
 2. Public Business Organization
@@ -44,7 +44,7 @@ The main aim of Business Relief Portal is to :
 5. Proposal Organization
 6. User Identity Organization
 
-<br><b>=====================================| Roles |=====================================================</b><br>
+<br><b>=====================================| Roles |===========================</b><br>
 
 1. Borrower
 2. Lender
@@ -59,7 +59,7 @@ The main aim of Business Relief Portal is to :
 11. User Registration Manager
 
 
-<br><b>=====================================| Licensing |==================================================</b><br>
+<br><b>=====================================| Licensing |===========================</b><br>
 <p>
 Copyright 2022 Ankit Goyal
 
