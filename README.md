@@ -1,13 +1,13 @@
 # Business Relief Portal
 <img src="https://github.com/ankitg28/Business-Relief-Portal/blob/main/7auaog.gif" alt="Business Relief Portal" width="800" height="500">
-<b>=====================================| Problem Statement |=====================================</b>
+<b>=====================================| Problem Statement |===========================</b>
 <br><br>
 The economy of a country is significantly influenced by small companies By creating jobs, buying locally produced goods, paying sales and property taxes, and interacting with local businesses and support services, they contribute to local economies
 Two-thirds of new jobs in the US are created by small businesses, which produce 43.5% of the country's GDP (GDP)
 But either these companies collapse, or people are unable to start any successful ones. One of the main reasons for this is a lack of funds
 Employers are let go by commercial companies because of a shortage of cash.
 
-<br><b>=====================================| Mission |================================================</b><br>
+<br><b>=====================================| Mission |===========================</b><br>
 
 Business Relief Portal is developed to aid in the expansion and development of startups and small companies
 
