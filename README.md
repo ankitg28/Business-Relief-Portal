@@ -1,16 +1,13 @@
 # Business Relief Portal
-<br>
-<img src="https://github.com/ankitg28/Business-Relief-Portal/blob/main/7auaog.gif" alt="Business Relief Portal">
-<br>
-<br>
-Problem Statement: 
-
+<img src="https://github.com/ankitg28/Business-Relief-Portal/blob/main/7auaog.gif" alt="Business Relief Portal" width="800" height="500">
+<b>=====================================| Problem Statement |=====================================</b>
+<br><br>
 The economy of a country is significantly influenced by small companies By creating jobs, buying locally produced goods, paying sales and property taxes, and interacting with local businesses and support services, they contribute to local economies
 Two-thirds of new jobs in the US are created by small businesses, which produce 43.5% of the country's GDP (GDP)
 But either these companies collapse, or people are unable to start any successful ones. One of the main reasons for this is a lack of funds
-Employers are let go by commercial companies because of a shortage of cash
+Employers are let go by commercial companies because of a shortage of cash.
 
-Mission :
+<br><b>=====================================| Mission |================================================</b><br>
 
 Business Relief Portal is developed to aid in the expansion and development of startups and small companies
 
@@ -20,7 +17,7 @@ The main aim of Business Relief Portal is to :
 3. Maintain and strengthen the overall economy of our nation
 4. Help business firms to retain their employee in times of crises
 
-Proposed Solution : 
+<br><b>=====================================| Proposed Solution |========================================</b><br> 
 
 1. We created a platform that aids businesses in obtaining money from the government and lenders in order to  assist people with their startups or existing businesses.
 2. As a result, a lot of organizations receive funding, which boosts the nation's economy.
@@ -30,7 +27,7 @@ Proposed Solution :
 6. Different funders have the option to invest money in both the company of their choosing and a legitimate commercial organization.
 7. In order to prevent us from falling for con artists, our portal is effective enough to verify the lending institutions as well as corporate companies.
 
-Enterprises:
+<br><b>=====================================| Enterprises |=============================================</b><br>
 
 1. Fund Management Enterprise
 2. Business Enterprise
@@ -38,7 +35,7 @@ Enterprises:
 4. User and Verification Enterprise
 5. Customer Support Enterprise
 
-Organizations:
+<br><b>=====================================| Organizations |============================================</b><br>
 
 1. Treasury Organization
 2. Public Business Organization
@@ -47,7 +44,7 @@ Organizations:
 5. Proposal Organization
 6. User Identity Organization
 
-Roles:
+<br><b>=====================================| Roles |=====================================================</b><br>
 
 1. Borrower
 2. Lender
@@ -61,8 +58,9 @@ Roles:
 10. Query Manager
 11. User Registration Manager
 
+
+<br><b>=====================================| Licensing |==================================================</b><br>
 <p>
-Licensing<br>
 Copyright 2022 Ankit Goyal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
