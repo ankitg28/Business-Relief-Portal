@@ -1,5 +1,7 @@
 # Business Relief Portal
 <br>
+<img src="https://github.com/ankitg28/Business-Relief-Portal/blob/main/7auaog.gif" alt="Business Relief Portal">
+<br>
 <br>
 Problem Statement: 
 
