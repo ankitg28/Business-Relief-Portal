@@ -1,25 +1,26 @@
 # Business Relief Portal
-<img src="https://github.com/ankitg28/Business-Relief-Portal/blob/main/7auaog.gif" alt="Business Relief Portal" width="800" height="500">
-<b>=====================================| Problem Statement |===========================</b>
-<br><br>
-The economy of a country is significantly influenced by small companies By creating jobs, buying locally produced goods, paying sales and property taxes, and interacting with local businesses and support services, they contribute to local economies
-Two-thirds of new jobs in the US are created by small businesses, which produce 43.5% of the country's GDP (GDP)
-But either these companies collapse, or people are unable to start any successful ones. One of the main reasons for this is a lack of funds
-Employers are let go by commercial companies because of a shortage of cash.
 
-<br><b>=====================================| Mission |===========================</b><br>
+<p align="center">
+  <img src="https://github.com/ankitg28/Business-Relief-Portal/blob/main/7auaog.gif" alt="Business Relief Portal" width="800" height="500">
+</p>
 
-Business Relief Portal is developed to aid in the expansion and development of startups and small companies
+## Problem Statement
 
-The main aim of Business Relief Portal is to :
+The economy of a country is significantly influenced by small companies. By creating jobs, buying locally produced goods, paying sales and property taxes, and interacting with local businesses and support services, they contribute to local economies. Two-thirds of new jobs in the US are created by small businesses, which produce 43.5% of the country's GDP (GDP). But either these companies collapse, or people are unable to start any successful ones. One of the main reasons for this is a lack of funds. Employers are let go by commercial companies because of a shortage of cash.
+
+## Mission
+
+Business Relief Portal is developed to aid in the expansion and development of startups and small companies.
+
+The main aim of Business Relief Portal is to:
 1. Aid, counsel, assist and protect the interests of small business concerns
 2. Preserve free competitive enterprise
 3. Maintain and strengthen the overall economy of our nation
 4. Help business firms to retain their employee in times of crises
 
-<br><b>=====================================| Proposed Solution |===========================</b><br> 
+## Proposed Solution
 
-1. We created a platform that aids businesses in obtaining money from the government and lenders in order to  assist people with their startups or existing businesses.
+1. We created a platform that aids businesses in obtaining money from the government and lenders in order to assist people with their startups or existing businesses.
 2. As a result, a lot of organizations receive funding, which boosts the nation's economy.
 3. Both new and existing businesses are eligible to register on the platform and submit their proposals.
 4. Our portal provides a variety of Businesses sponsored by lenders and the government, and we can add new Businesses if lenders want to support further businesses.
@@ -27,7 +28,7 @@ The main aim of Business Relief Portal is to :
 6. Different funders have the option to invest money in both the company of their choosing and a legitimate commercial organization.
 7. In order to prevent us from falling for con artists, our portal is effective enough to verify the lending institutions as well as corporate companies.
 
-<br><b>=====================================| Enterprises |===========================</b><br>
+## Enterprises
 
 1. Fund Management Enterprise
 2. Business Enterprise
@@ -35,7 +36,7 @@ The main aim of Business Relief Portal is to :
 4. User and Verification Enterprise
 5. Customer Support Enterprise
 
-<br><b>=====================================| Organizations |===========================</b><br>
+## Organizations
 
 1. Treasury Organization
 2. Public Business Organization
@@ -44,7 +45,7 @@ The main aim of Business Relief Portal is to :
 5. Proposal Organization
 6. User Identity Organization
 
-<br><b>=====================================| Roles |===========================</b><br>
+## Roles
 
 1. Borrower
 2. Lender
@@ -58,8 +59,8 @@ The main aim of Business Relief Portal is to :
 10. Query Manager
 11. User Registration Manager
 
+## Licensing
 
-<br><b>=====================================| Licensing |===========================</b><br>
 <p>
 Copyright 2022 Ankit Goyal
 
